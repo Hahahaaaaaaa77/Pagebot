@@ -1,12 +1,12 @@
 {
-  "PAGE_ACCESS_TOKEN": "",
+  "PAGE_ACCESS_TOKEN": "EAAFvr4NZBMBQBOw9ijnW80I32J8r2gAHBNrfKgiFE0dcd4XjEAO2Lb5dVV46Wh5unTUgnzZBA6xvS8vJVy9hhErip0t30lo4zrbWgI5GOIVNPYx0ngKOze0NDKTmSo8yMINMJGbfZAZAFjOKiwO7ZAOZApam1tNpmzLIRl0qxKMJYpqIq9gZCxRYzTb7POaYUnb8FhVj5ZAIB1kP1nblFQZDZD",
   "VERIFY_TOKEN": "WEBHOOK",
-  "ADMINS": [""],
-  "BOTNAME": "BOTNAME",
-  "PREFIX": "/",
+  "ADMINS": ["100084606198768"],
+  "BOTNAME": "Shikamaru",
+  "PREFIX": "•",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "Your Name",
+    "ADMIN": "RONALD SORY",
     "TITLE": "PAGEBOT"
   },
   "selfListen": false
